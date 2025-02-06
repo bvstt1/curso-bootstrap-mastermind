@@ -1,0 +1,17 @@
+.color-red{
+    background-color: #f00000;
+    color: white;
+}
+.color-red80{
+    background-color: #f00000;
+    color: white;
+    opacity: 0.8;
+}
+.color-red60{
+    background-color: #f00000;
+    color: white;
+    opacity: 0.6;
+}
+.margintop20{
+    margin-top: 20px;
+}
