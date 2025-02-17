@@ -20,3 +20,8 @@
         margin-top: 0px;
     }
 }
+.cover-fill{
+    width: 100%;
+    height: 200px; /* Ajusta según lo necesites */
+    object-fit: cover;
+}
